@@ -1,4 +1,6 @@
-<div class="container">
-    <p> Hello world!</p>
-    <p>This is a new paragraph added in the feature branch.</p>
-</div>
+<body>
+        <div class="container">
+          <p> Hello World! </p>
+          <p> This is a new paragraph added in the feature branch. </p>
+        </div>
+    </body>
