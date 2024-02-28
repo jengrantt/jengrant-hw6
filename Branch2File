@@ -1,5 +1,4 @@
-<body>
-        <div class="container">
-          <p> Hello World! This is Jenna Grant. </p>
-        </div>
-    </body>
+<div class="container">
+    <p> Hello world!</p>
+    <p>This is a new paragraph added in the feature branch.</p>
+</div>
