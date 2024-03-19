@@ -16,7 +16,7 @@ header, main, footer {
 }
 
 header {
-    background-color: #bb00ff; /* Specific background color for header */
+    background-color: #985dae; /* Specific background color for header */
     color: #fff;
 }
 
@@ -83,7 +83,7 @@ footer {
 }
 
 footer a {
-    color: #cd07ff;
+    color: #d89bdddd;
 }
 
 footer a:hover {
